@@ -4,7 +4,7 @@
 echo ""
 echo ""
 
-read -p "ENTER STUDENT2:- " STUDENT2
+read -p "Google Cloud username 2:- " STUDENT2
 
 gcloud iam service-accounts create test-account \
   --description="Test account for project management" \
