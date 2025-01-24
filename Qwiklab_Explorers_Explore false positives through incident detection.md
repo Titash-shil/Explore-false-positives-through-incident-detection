@@ -10,12 +10,15 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Clean-Up-Unused-and-Orphaned-Persistent-Disks-GSP648/refs/heads/main/qwiklab_explorers_gsp648.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Explore-false-positives-through-incident-detection/refs/heads/main/qwiklab_explorers.sh
 
-sudo chmod +x qwiklab_explorers_gsp648.sh
+sudo chmod +x qwiklab_explorers.sh
 
-./qwiklab_explorers_gsp648.sh
+./qwiklab_explorers.sh
 ```
+- Log in again with `Google Cloud username-2`.
+- Then Go to [here](https://console.cloud.google.com/iam-admin/serviceaccounts?project=).
+- Then follow the video carefully.
 
 ---
 
